@@ -9,6 +9,7 @@ public class enemyBehaviour : MonoBehaviour {
 
 	private string[] gunArray;
 	private string currentGun;
+	private string[] jump;
 
 	void Start(){
 		
